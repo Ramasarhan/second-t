@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head\>
+    <link rel="stylesheet" type="text/css" href="../cs html/style.css">
+    <center>
+    <title >my seconed task</title>
+    </center>
+
+</head>
+<body>
+    <center>
+        <h1 class="T">Welcome to memorize websit</h1>
+    <br>
+<p1>This websit will help to memorize your new information you don't want to lose it 
+    That the best websit to use 
+</p1>
+<br>
+<p2>You don't have an email yet don't waest your time!</p2>
+<br>
+<br>
+<label a for="Email" >Enter your Email</label>
+<br>
+<br>
+<input type="email">
+<br>
+<br>
+<label a for="pass" >Enter your password</label>
+<br>
+<br>
+<input type="password" >
+   <br>
+   <br>
+   <input type="submit" value="continue">
+    </center>
+    
+
+</body>
+</html>
